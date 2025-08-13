@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/misbahudin_99" target="blank"><img src="https://img.shields.io/twitter/follow/misbahudin_99?logo=twitter&style=for-the-badge" alt="misbahudin_99" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://misbah.devs.id](https://misbah.devs.id)
+- 👨‍💻 All of my projects are available at [https://misbah.my.id](https://misbah.my.id)
 
-- 📝 I regularly write articles on [https://misbah.devs.id/blog](https://misbah.devs.id/blog)
+- 📝 I regularly write articles on [https://misbah.my.id/blog](https://misbah.my.id/blog)
 
 - 💬 Ask me about **php, javascript**
 
